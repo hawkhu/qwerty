@@ -12,7 +12,6 @@ export type Dictionary = {
  * Why arrays? Because it keeps the order across browsers.
  */
 export const dictionaries: Dictionary[] = [
-     { id: 'python-beginner', name: 'python初学者', description: 'python初学者常用字', category: '编程核心素养', url: './dicts/python-beginner.json', length: 105 },
   // { id: 'cet4', name: 'CET-4', description: '大学英语四级词库', category: '英语学习', url: '', length: 2607 },
   // { id: 'cet6', name: 'CET-6', description: '大学英语六级词库', category: '英语学习', url: './dicts/CET6_T.json', length: 2345 },
   // { id: 'gmat', name: 'GMAT', description: 'GMAT 词库', category: '英语学习', url: './dicts/GMAT_3_T.json', length: 3047 },
@@ -92,6 +91,14 @@ export const dictionaries: Dictionary[] = [
   //   url: './dicts/js-string.json',
   //   length: 32,
   // },
+  { 
+    id: 'python-beginner', 
+    name: 'python初学者', 
+    description: 'python初学者常用字', 
+    category: '编程核心素养', 
+    url: './dicts/python-beginner.json', 
+    length: 105,
+  },
   {
     id: 'python-builtin',
     name: 'Python: Built-in',
