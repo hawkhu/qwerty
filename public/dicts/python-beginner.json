@@ -14,7 +14,7 @@
     { "name": "write()", "trans": ["写入"] },
     { "name": "range", "trans": ["range类型，范围"] },
     { "name": "strip()", "trans": ["消除"]},
-    { "name": "lsrip()", "trans": ["左消除"] },
+    { "name": "lstrip()", "trans": ["左消除"] },
     { "name": "rstrip()", "trans": ["右消除"] },
     { "name": "eval()", "trans": ["解析并求值一个 Python 表达式"] },
     { "name": "exec()", "trans": ["执行 Python 代码"] },
