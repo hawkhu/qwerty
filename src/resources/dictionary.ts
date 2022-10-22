@@ -91,12 +91,12 @@ export const dictionaries: Dictionary[] = [
   //   url: './dicts/js-string.json',
   //   length: 32,
   // },
-  { 
-    id: 'python-beginner', 
-    name: 'python初学者', 
-    description: 'python初学者常用字', 
-    category: '编程核心素养', 
-    url: './dicts/python-beginner.json', 
+  {
+    id: 'python-beginner',
+    name: 'python初学者',
+    description: 'python初学者常用字',
+    category: '编程核心素养',
+    url: './dicts/python-beginner.json',
     length: 105,
   },
   {
