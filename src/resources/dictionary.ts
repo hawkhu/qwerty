@@ -97,7 +97,7 @@ export const dictionaries: Dictionary[] = [
     description: 'python初学者常用字',
     category: '编程核心素养',
     url: './dicts/python-beginner.json',
-    length: 97,
+    length: 96,
   },
   {
     id: 'python-builtin',
