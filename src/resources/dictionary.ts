@@ -98,7 +98,7 @@ export const dictionaries: Dictionary[] = [
     category: '编程核心素养',
     url: './dicts/python-beginner.json',
     length: 105,
-    },
+  },
   {
     id: 'python-builtin',
     name: 'Python: Built-in',
