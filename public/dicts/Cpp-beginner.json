@@ -37,7 +37,7 @@
     { "name": "wchar_t", "trans": ["宽字符类型"] },
     { "name": "include", "trans": ["包含"] },
     { "name": "iostream", "trans": ["输入输出流头文件"] },
-    { "name": "main(){}", "trans": ["主函数"] },
+    { "name": "main()", "trans": ["主函数"] },
     { "name": "cout", "trans": ["输出"] },
     { "name": "cin", "trans": ["输入"] },
     { "name": "iomanip", "trans": ["流操作头文件"] },
