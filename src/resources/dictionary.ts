@@ -93,8 +93,8 @@ export const dictionaries: Dictionary[] = [
   // },
   {
     id: 'python-beginner',
-    name: 'python初学者',
-    description: 'python初学者常用字',
+    name: 'Python初学者',
+    description: 'Python初学者常用字',
     category: '编程核心素养',
     url: './dicts/python-beginner.json',
     length: 96,
