@@ -100,6 +100,14 @@ export const dictionaries: Dictionary[] = [
     length: 96,
   },
   {
+    id: 'Cpp-beginner',
+    name: 'C++初学者',
+    description: 'C++初学者常用字',
+    category: '编程核心素养',
+    url: './dicts/Cpp-beginner.json',
+    length: 89,
+  },
+  {
     id: 'python-builtin',
     name: 'Python: Built-in',
     description: 'Python Built-in API',
